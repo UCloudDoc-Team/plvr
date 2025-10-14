@@ -11,13 +11,13 @@
 - 购买指南
   - [计费规则](/uplvr/buy/charge.md)
 - [操作指南](/uplvr/guide/guide.md)
-  - 实例
-    - [创建和管理专线虚拟路由器实例](/guide/virtualrouter.md)
-    - [创建和管理虚拟通道实例](/guide/virtualchannel.md)
-  - 专线虚拟路由器
-    - [实例详情页](guide/virtualrouter_luyoutab.md)
-  - 虚拟通道
-    - [实例详情页](guide/virtualchannel_detail.md)
-    - [调整带宽](guide/virtualchannel_change.md)
+  * 实例
+    * [创建和管理专线虚拟路由器实例](/guide/virtualrouter.md)
+    * [创建和管理虚拟通道实例](/guide/virtualchannel.md)
+  * 专线虚拟路由器
+    * [实例详情页](guide/virtualrouter_luyoutab.md)
+  * 虚拟通道
+    * [实例详情页](guide/virtualchannel_detail.md)
+    * [调整带宽](guide/virtualchannel_change.md)
 - [最佳实践](/uplvr/bestpractice/bestpractice.md)
 
