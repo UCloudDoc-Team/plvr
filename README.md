@@ -10,7 +10,7 @@
   * [技术架构](/uplvr/intro/architecture.md)
 - 购买指南
   - [计费规则](/uplvr/buy/charge.md)
-- [操作指南](/uplvr/guide/guide.md)
+- 操作指南
   * 实例
     * [创建和管理专线虚拟路由器实例](/guide/virtualrouter.md)
     * [创建和管理虚拟通道实例](/guide/virtualchannel.md)
