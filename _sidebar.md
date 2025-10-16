@@ -13,7 +13,6 @@
   * 专线虚拟路由器
     * [创建和管理专线虚拟路由器实例](/uplvr/guide/virtualrouter.md)
     * [实例详情页](/uplvr/guide/virtualrouter_luyoutab.md)
-  
   * 虚拟通道
     * [创建和管理虚拟通道实例](/uplvr/guide/virtualchannel.md)
     * [实例详情页](/uplvr/guide/virtualchannel_detail.md)
