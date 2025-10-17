@@ -9,7 +9,8 @@ UPLVR在整个技术架构中与多个模块紧密相关，总体来说相关的
 | 云联网                | Ucloud全球骨干网络，支持各种网络实例加入 |
 
 技术架构如下图所示：
-![架构](https://raw.githubusercontent.com/UCloudDoc-Team/uplvr/refs/heads/master/image/%E6%9E%B6%E6%9E%84.png)
+![架构](/images/架构.png)
+
 
 
 
