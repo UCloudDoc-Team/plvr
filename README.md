@@ -2,25 +2,24 @@
 # 概览
 
 - 动态与公告
-  - [新功能发布记录](/uplvr/newfunctions/newfunctions.md)
+  - [新功能发布记录](/plvr/newfunctions/newfunctions.md)
 - 产品介绍
-  * [产品概述](/uplvr/intro/description.md)
-  * [产品功能](/uplvr/intro/function.md)
-  * [产品优势](/uplvr/intro/advantages.md)
-  * [使用限制](/uplvr/intro/limit.md)
-  * [技术架构](/uplvr/intro/architecture.md)
+  * [产品概述](/plvr/intro/description.md)
+  * [产品功能](/plvr/intro/function.md)
+  * [产品优势](plvr/intro/advantages.md)
+  * [使用限制](/plvr/intro/limit.md)
+  * [技术架构](/plvr/intro/architecture.md)
 - 购买指南
-  - [计费规则](/uplvr/buy/charge.md)
+  - [计费规则](/plvr/buy/charge.md)
 - 操作指南
   * 专线虚拟路由器
-    * [创建和管理专线虚拟路由器实例](/uplvr/guide/virtualrouter.md)
-    * [实例详情页](/uplvr/guide/virtualrouter_luyoutab.md)
-  
+    * [创建和管理专线虚拟路由器实例](/plvr/guide/virtualrouter.md)
+    * [实例详情页](/plvr/guide/virtualrouter_luyoutab.md)
   * 虚拟通道
-    * [创建和管理虚拟通道实例](/uplvr/guide/virtualchannel.md)
-    * [实例详情页](/uplvr/guide/virtualchannel_detail.md)
-    * [调整带宽](uplvr/guide/virtualchannel_change.md)
-- [最佳实践](/uplvr/bestpractice/bestpractice.md)
+    * [创建和管理虚拟通道实例](/plvr/guide/virtualchannel.md)
+    * [实例详情页](/plvr/guide/virtualchannel_detail.md)
+    * [调整带宽](plvr/guide/virtualchannel_change.md)
+- [最佳实践](/plvr/bestpractice/bestpractice.md)
 
 
 
