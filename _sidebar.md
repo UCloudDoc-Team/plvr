@@ -1,5 +1,5 @@
 - [概览](/uplvr/README.md)
-- 动态与公告1
+- 动态与公告
   - [新功能发布记录](/uplvr/newfunctions/newfunctions.md)
 - 产品介绍
   * [产品概述](/uplvr/intro/description.md)
