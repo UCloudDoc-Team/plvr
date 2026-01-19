@@ -19,6 +19,8 @@
     * [创建和管理虚拟通道实例](/plvr/guide/virtualchannel.md)
     * [实例详情页](/plvr/guide/virtualchannel_detail.md)
     * [调整带宽](plvr/guide/virtualchannel_change.md)
-- [最佳实践](/plvr/bestpractice/bestpractice.md)
-
+- [快速入门](plvr/fast/fast.md)
+- 最佳实践
+  * [最佳实践案例](/plvr/bestpractice/bestpractice.md)
+  * [虚拟通道配置案例](/plvr/bestpractice/bestpractice2.md)
 
