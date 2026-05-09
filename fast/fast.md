@@ -31,7 +31,7 @@
    ![fast3](/images/63.png)
    
 
-**步骤三：内网访问其他业务**
+**步骤四：内网访问其他业务**
 
 1. 访问VPC、UWAN或其他虚拟路由器实例：使用UGN关联不同实例，即可实现打通，具体操作见 [云联网](https://docs.ucloud.cn/ugn/guide/instance/net_instance) 产品。
 2. 访问公共服务：无需额外操作，创建虚拟通道时，打开公共服务开关即可自动打通
